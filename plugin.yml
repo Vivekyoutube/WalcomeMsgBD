@@ -1,0 +1,5 @@
+name: JoinMSG-BD
+api: 5.0.0
+main: Bobydev\Msg
+version: 2.0.0
+author: Bobydev
